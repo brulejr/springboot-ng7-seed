@@ -1,0 +1,4 @@
+rootProject.name = 'springboot-ng7-seed'
+
+include 'java-app'
+include 'npm-app'
