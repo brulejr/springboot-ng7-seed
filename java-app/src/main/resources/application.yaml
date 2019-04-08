@@ -1,0 +1,11 @@
+info:
+  application: SpringBoot Angular 7 Seed Project
+
+server:
+  port: 4000
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
